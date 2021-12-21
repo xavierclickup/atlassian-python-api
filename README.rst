@@ -156,7 +156,7 @@ In addition to all the contributors we would like to thank these vendors:
 * JetBrains_ for providing us with free licenses of PyCharm_
 * Microsoft_ for providing us with free licenses of VSCode_
 * GitHub_ for hosting our repository and continuous integration
-add something
+add something test
 
 .. _Atlassian: https://www.atlassian.com/
 .. _JetBrains: http://www.jetbrains.com
